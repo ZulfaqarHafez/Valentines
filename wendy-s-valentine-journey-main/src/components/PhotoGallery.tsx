@@ -15,15 +15,15 @@ import photo9 from "@/assets/photo9.jpg";
 const photos = [photo1, photo2, photo3, photo4, photo5, photo6, photo7, photo8, photo9];
 
 const captions = [
-  "Looking stunning together ✨",
-  "Even through a screen, you're adorable 💕",
-  "Adventures with you are the best 🦦",
-  "You + me + a rose = perfection 🌹",
-  "Elevator selfies are our thing 📸",
-  "Your smile lights up my world 🧡",
-  "Late night moments with you 🌙",
-  "Close-ups because I can't get enough of you 💛",
-  "By the sea, with my favourite person 🌊",
+  "Looking stunning together",
+  "Even through a screen, you're adorable",
+  "Adventures with you are the best",
+  "You + me + a rose = perfection",
+  "Elevator selfies are our thing",
+  "Your smile lights up my world",
+  "Late night moments with you",
+  "Close-ups because I can't get enough of you",
+  "By the sea, with my favourite person",
 ];
 
 const PhotoGallery = () => {

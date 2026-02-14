@@ -60,7 +60,7 @@ const HeroSection = () => {
         <h1 className="text-5xl sm:text-7xl font-display font-bold text-gradient-gold leading-tight mb-6">
           Happy Valentine's Day,
           <br />
-          <span className="italic">Wendy</span> 💕
+          <span className="italic">Wendy</span>
         </h1>
 
         <motion.p
@@ -84,7 +84,7 @@ const HeroSection = () => {
             onClick={() => setShowYes(true)}
             className="px-8 py-3 bg-accent text-accent-foreground rounded-full font-display text-lg tracking-wide hover:shadow-lg hover:shadow-accent/30 transition-shadow"
           >
-            Ready for tonight? 🌹
+            Ready for tonight?
           </motion.button>
         ) : (
           <motion.div
@@ -92,7 +92,7 @@ const HeroSection = () => {
             animate={{ opacity: 1, scale: 1 }}
             className="text-3xl heart-glow"
           >
-            Let's make it unforgettable 🥂✨
+            Let's make it unforgettable
           </motion.div>
         )}
       </motion.div>

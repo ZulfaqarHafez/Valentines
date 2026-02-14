@@ -60,7 +60,7 @@ const MusicPlayer = () => {
             transition={{ delay: 2.5, duration: 0.5 }}
             className="fixed bottom-6 right-20 z-50 bg-secondary border border-primary/20 rounded-full px-4 py-2 text-xs text-muted-foreground font-body"
           >
-            Tap to play our song 🎵
+            Tap to play our song
           </motion.div>
         )}
       </AnimatePresence>

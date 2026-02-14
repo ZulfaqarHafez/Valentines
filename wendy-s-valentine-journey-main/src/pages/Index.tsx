@@ -41,7 +41,7 @@ const Index = () => {
           className="max-w-lg mx-auto text-center"
         >
           <p className="text-primary text-sm tracking-[0.2em] uppercase mb-3 font-body">
-            Our Song 🎵
+            Our Song
           </p>
           <h2 className="text-2xl sm:text-3xl font-display font-bold text-foreground mb-8 italic">
             你存在我深深的脑海里
@@ -107,7 +107,7 @@ const Index = () => {
             I love you, Wendy
           </p>
           <p className="text-muted-foreground text-sm font-body">
-            Here's to us, always & forever 💕
+            Here's to us, always & forever
           </p>
         </motion.div>
       </footer>
